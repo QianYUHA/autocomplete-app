@@ -20,7 +20,9 @@ It supports **single/multiple selection**, **keyboard navigation**, and **custom
 ```sh
 git clone https://github.com/your-username/autocomplete-app.git
 cd autocomplete-app
-### **2️⃣ Install dependencies
+
+### **2️⃣ Install dependencies**
 npm install
-### **3️⃣ Start the development server
+
+### **3️⃣ Start the development server**
 npm run dev
