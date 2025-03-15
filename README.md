@@ -3,10 +3,6 @@
 A fully customizable **React Autocomplete component** built with **TypeScript**, **Tailwind CSS**, and **Floating UI**.  
 It supports **single/multiple selection**, **keyboard navigation**, and **custom filtering options**.
 
-## **📸 Demo**
-![Autocomplete Demo](https://user-images.githubusercontent.com/your-github/demo.gif)  
-*(Replace with actual screenshot or GIF)*  
-
 ---
 
 ## **📦 Features**
